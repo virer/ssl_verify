@@ -1,4 +1,4 @@
 ssl_verify
 ==========
 
-SSL command line verification
+SSL command line chain validity verification
